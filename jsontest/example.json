@@ -1,0 +1,22 @@
+[
+  {
+    "warnings": [
+      "are you ok? (server#1)"
+    ]
+  },
+  {
+    "warnings": [
+      "I am fine. (server#2)"
+    ]
+  },
+  {
+    "warnings": [
+      "Everything ok?  (server#3)"
+    ]
+  },
+  {
+    "warnings": [
+      "All good. (server#4)"
+    ]
+  }
+]
